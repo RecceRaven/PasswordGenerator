@@ -16,8 +16,9 @@ Upon running the project from the URL, click the red button and follow the promp
 
 Screenshots
 
+![passwordgenerator](https://github.com/RecceRaven/PasswordGenerator/assets/149850541/4397e637-10c6-484a-9e2c-36e66b1ba4a1)
 
 
 ## Additional Resources
 
-Application URL === 
+Application URL === https://recceraven.github.io/PasswordGenerator/
